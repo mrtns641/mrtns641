@@ -1,6 +1,4 @@
-<div aling= "center">
-  ![giphy](https://user-images.githubusercontent.com/89717936/150699604-e45557a4-2ff3-4220-b9c4-ee5d4a11a50c.gif)
-</div>
+![giphy](https://user-images.githubusercontent.com/89717936/150699604-e45557a4-2ff3-4220-b9c4-ee5d4a11a50c.gif)
 <hr>
 
 <div align="center">
