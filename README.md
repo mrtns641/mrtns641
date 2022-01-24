@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriella-martins-1a4b78210/" target="_black"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
   <a href="#" target="_black"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_black"></a>
-  <a href="https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC?si=qiVcKQqjRLmq_-nqEID-BA" target="_black"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_black"></a>
+  <a href="https://open.spotify.com/playlist/4THRyOdXZVYR62IVmyVGz9?si=2d1cedc208a5434d" target="_black"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_black"></a>
 </div>
 
 <h3 align="center">  <br>
