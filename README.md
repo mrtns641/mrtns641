@@ -13,15 +13,15 @@ Olá, meu nome é Gabriella!
 </h3>
 
 ```
-Sou estudante de Análise e Desenvolvimento pela FATEC, atualmente sou estagiária de tecnologia.
+Sou estudante de Análise e Desenvolvimento pela FATEC, atualmente sou estagiária de desenvolvimento.
 Procuro me desenvolver nas áreas de desenvolvimento e teste de softwares!
 ```
 
 ## Meus Dados no GitHub
 <div align="center">
   <a href="https://github.com/mrtns641">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrtns641&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtns641&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mrtns641&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtns641&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ![Snake animation](https://github.com/mrtns641/mrtns641/blob/output/github-contribution-grid-snake.svg)
