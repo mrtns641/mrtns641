@@ -14,7 +14,7 @@ Olá, meu nome é Gabriella!
 
 ```
 Sou estudante de Análise e Desenvolvimento pela FATEC, atualmente sou estagiária de desenvolvimento.
-Procuro me desenvolver nas áreas de desenvolvimento e teste de softwares!
+Procuro me desenvolver nas áreas de desenvolvimento e teste de softwares.
 ```
 
 ## Meus Dados no GitHub
