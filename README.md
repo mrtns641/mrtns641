@@ -1,4 +1,4 @@
-<img src="https://tenor.com/pt-BR/view/rain-garden-pixel-art-scenic-gif-21074536.gif" align="right" height="450" width="350">
+<img src="https://tenor.com/pt-BR/view/rain-garden-pixel-art-scenic-gif-21074536.gif" align="right" height="400" width="300">
 
 ## 💚 Olá, meu nome é <strong>Gabriella!</strong>
 > Tenho 20 anos, atualmente trabalho como Desenvolvedora Júnior e nesse perfil posto meus projetos pessoais para estudo. 
