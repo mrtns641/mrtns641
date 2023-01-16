@@ -5,7 +5,7 @@
 
 ----
 
-## 🟢 Informações sobre minha conta
+## 🟢 Informações sobre a conta
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrtns641&theme=dark)
 
 ----
