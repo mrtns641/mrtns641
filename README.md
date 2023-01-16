@@ -4,10 +4,10 @@
 > Tenho 20 anos, atualmente trabalho como Desenvolvedora Júnior e nesse perfil posto meus projetos pessoais para estudo. 
 
 ----
-
+<p align="left">
 ## 🟢 Informações sobre minha conta
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrtns641&theme=dark)
-
+</p>
 ----
 
 <p align="left">
