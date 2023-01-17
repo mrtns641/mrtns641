@@ -6,7 +6,7 @@
 ----
 
 ## 📗 Informações sobre a conta
-![Gabriella's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtns641&show_icons=true&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtns641&show_icons=true&locale=en&theme=dark" alt="mrtns641" /></p>
 
 ----
 
