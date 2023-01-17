@@ -6,7 +6,7 @@
 ----
 
 ## 📗 Informações sobre a conta
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrtns641&show_icons=true&locale=en&theme=dark" alt="mrtns641" /></p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mrtns641&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 ----
 
