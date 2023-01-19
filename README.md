@@ -6,7 +6,7 @@
 ----
 
 ## 📗 Informações sobre a conta
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtns641&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrtns641&theme=dark&show_icons=true)
 
 ----
 
